@@ -12,6 +12,7 @@ Here are the major changes:
 6. Semantic-UI is included. For an example, see the `ProtectedView`. I've decided to check a compiled version into the `static/` folder so user beware. Long term, this should be replaced with a library of React components for Semantic.
 7. Sentry logging is turned off on production and replaced with standard local logging.
 8. Not using `scripts/static_validate_backend.sh`. Just using pep8 through vim.
+9. Stripped out the UI components so it looks ugly on first load.
 
 Make sure to setup postgres on Heroku and have your buildpacks in order:
 ```

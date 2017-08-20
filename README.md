@@ -1,4 +1,4 @@
-__UPDATE: this is probably out of date now. I've written an updated guide [here](http://dopeboy.github.io/django-react-redux-heroku-base/)__
+__UPDATE: This is probably out of date now. I've written an updated guide [here](http://dopeboy.github.io/django-react-redux-heroku-base/)__
 
 # django-react-redux-jwt-heroku-boilerplate
 

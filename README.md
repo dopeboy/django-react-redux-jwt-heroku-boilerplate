@@ -1,3 +1,5 @@
+__UPDATE: this is probably out of date now. I've written an updated guide [here](http://dopeboy.github.io/django-react-redux-heroku-base/)__
+
 # django-react-redux-jwt-heroku-boilerplate
 
 This is a fork of Seedstars' brilliant [django-react-redux-jwt-base boilerplate project](https://github.com/Seedstars/django-react-redux-jwt-base). It is adapted to be deployed on Heroku. There's a couple other changes I've made based on my preferences. I didn't make a formal fork because it's different enough to merit its own repo.
